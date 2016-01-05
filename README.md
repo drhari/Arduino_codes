@@ -1,2 +1,2 @@
 ###### Arduino_codes
-###### I thank my student Mohanraj to develop this code
+###### I thank my student Mohanraj.D to develop this code
